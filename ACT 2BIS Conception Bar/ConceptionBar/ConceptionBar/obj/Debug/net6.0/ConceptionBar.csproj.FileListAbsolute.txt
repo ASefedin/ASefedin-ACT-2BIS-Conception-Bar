@@ -1,0 +1,14 @@
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\bin\Debug\net6.0\ConceptionBar.exe
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\bin\Debug\net6.0\ConceptionBar.deps.json
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\bin\Debug\net6.0\ConceptionBar.runtimeconfig.json
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\bin\Debug\net6.0\ConceptionBar.dll
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\bin\Debug\net6.0\ConceptionBar.pdb
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.AssemblyInfoInputs.cache
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.AssemblyInfo.cs
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.csproj.CoreCompileInputs.cache
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.dll
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\refint\ConceptionBar.dll
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.pdb
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ConceptionBar.genruntimeconfig.cache
+H:\UAA14 POO\POO\ACT 2BIS Conception Bar\ConceptionBar\ConceptionBar\obj\Debug\net6.0\ref\ConceptionBar.dll
